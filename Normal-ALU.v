@@ -1,5 +1,5 @@
 module alu (
-    A,b,ALUControl,Result
+    A,B,ALUControl,Result
 );
 
     //declaring inputs
