@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Time = 0, A = 00000003, B = 00000001, ALUControl = 000, Result = 00000004
+Time = 10000, A = 000000f8, B = 000000a3, ALUControl = 000, Result = 0000019b
+Time = 20000, A = 00000005, B = 00000003, ALUControl = 001, Result = 00000002
+Time = 30000, A = f00000ff, B = f00000ff, ALUControl = 001, Result = 00000000
+Time = 40000, A = 0000000f, B = 00000008, ALUControl = 010, Result = 00000008
+Time = 50000, A = 6a4563e8, B = 000006be, ALUControl = 010, Result = 000002a8
+Time = 60000, A = 0000000f, B = 00000008, ALUControl = 011, Result = 0000000f
+Time = 70000, A = 01111111, B = 00000008, ALUControl = 011, Result = 01111119
+Time = 80000, A = ffffffff, B = 00000001, ALUControl = 100, Result = 00000000
+Time = 90000, A = 00000001, B = ffffffff, ALUControl = 101, Result = 00000002
+$stop called at time : 100 ns : File "C:/Users/karan_5rva4sq/ALU/ALU.srcs/sim_1/new/alu_tb1.v" Line 83
