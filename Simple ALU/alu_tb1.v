@@ -65,3 +65,4 @@ module alu_tb1;
     $monitor("Time = %0t, A = %h, B = %h, ALUControl = %b, Result = %h", 
              $time, A, B, ALUControl, Result);
   end
+endmodule
