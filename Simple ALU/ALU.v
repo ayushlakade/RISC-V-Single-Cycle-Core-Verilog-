@@ -41,5 +41,5 @@ module alu (
     
     //final result
     assign Result =mux_2;
-
+    end
 endmodule
